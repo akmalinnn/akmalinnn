@@ -32,7 +32,5 @@ When I'm not coding, I enjoy exploring technology, gaming, and watching anime.
 </p>
 
 ---
+[![Akmal's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Akmalinnn)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-<a href="https://github.com/Akmalinnn">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmalinnn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>

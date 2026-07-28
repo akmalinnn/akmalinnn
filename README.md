@@ -9,8 +9,6 @@ When I'm not coding, I enjoy exploring technology, gaming, and watching anime.
 * 🌍 I'm based in Surabaya, East Java, Indonesia
 * 💻 Interested in Backend Development, DevOps, Cloud Engineering
 * 🚀 Currently building projects around Go, Docker, CI/CD, and cloud infrastructure
-* ✉️ Contact me at [akmalnafis25@gmail.com](mailto:akmalnafis25@gmail.com)
-
 ---
 
 

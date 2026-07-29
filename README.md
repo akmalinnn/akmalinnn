@@ -12,15 +12,6 @@ When I'm not coding, I enjoy exploring technology, gaming, and watching anime.
 ---
 
 
-### 🚀 Featured Projects
-
-🌦️ **Weather Live Platform**
-- Real-time weather visualization platform for Indonesia
-- Integrating BMKG weather data and Himawari satellite imagery
-- Built with Go, Next.js, Docker, PostgreSQL, and Redis
-
----
-
 ### Socials
 
 <p align="left">

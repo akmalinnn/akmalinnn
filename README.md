@@ -20,6 +20,4 @@ When I'm not coding, I enjoy exploring technology, gaming, and watching anime.
 </a>
 </p>
 
----
-[![Akmal's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Akmalinnn)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
